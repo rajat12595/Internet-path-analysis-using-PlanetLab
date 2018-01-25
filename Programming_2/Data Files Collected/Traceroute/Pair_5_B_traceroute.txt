@@ -1,0 +1,2010 @@
+Date: 04-22-2017 (MM/DD/YYYY), Time: 07:25, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 08:25, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 09:26, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 10:26, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 11:26, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 12:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 13:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 14:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 15:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 16:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 17:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 18:29, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 19:29, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 20:29, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 21:30, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 22:30, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 23:30, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 00:31, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 01:31, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 02:31, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 03:32, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 04:32, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 05:32, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 06:33, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 07:33, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 08:33, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 09:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 10:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 11:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 12:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 13:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 14:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 15:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 16:36, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 17:36, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 18:36, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 19:37, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 20:37, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 21:37, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 22:38, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-23-2017 (MM/DD/YYYY), Time: 23:38, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 00:38, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 01:39, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 02:39, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 03:39, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 04:40, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 05:40, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 06:40, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 07:41, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 08:41, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 09:41, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 10:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 11:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 12:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 13:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 14:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 15:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 16:44, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 17:44, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 18:44, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 19:45, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 20:45, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 21:45, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 22:46, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-24-2017 (MM/DD/YYYY), Time: 23:46, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 00:46, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 01:47, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 02:47, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 03:47, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 04:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 05:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 06:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 07:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 08:49, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 09:49, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 10:49, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 11:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 12:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 13:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 14:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 15:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-25-2017 (MM/DD/YYYY), Time: 16:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 07:26, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 08:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 09:29, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 10:30, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 11:31, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 12:33, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 13:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 14:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 15:36, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 16:38, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 17:39, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 18:40, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 19:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 20:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 21:44, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 22:45, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 23:47, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 00:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 01:49, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 02:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 03:52, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 04:53, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 05:54, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 06:56, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 07:57, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 08:58, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 09:59, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 11:01, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 12:02, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 13:03, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 14:05, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 15:06, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 16:07, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 17:08, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 18:10, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 19:11, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 20:12, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 21:13, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 22:15, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-20-2017 (MM/DD/YYYY), Time: 23:16, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 00:17, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 01:19, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 02:20, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 03:21, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 04:22, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 05:24, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 06:25, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 07:26, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 08:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 09:29, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 10:30, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 11:31, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 12:33, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 13:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 14:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 15:36, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 16:38, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 17:39, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 18:40, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 19:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 20:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 21:44, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 22:45, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-21-2017 (MM/DD/YYYY), Time: 23:47, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 00:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 01:49, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 02:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 03:52, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 04:53, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 05:54, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 06:56, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 07:57, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 08:58, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 09:59, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 11:01, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 12:02, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 13:03, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 14:05, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 15:06, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-22-2017 (MM/DD/YYYY), Time: 16:07, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 07:26, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 08:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 09:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 10:30, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 11:31, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 12:32, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 13:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 14:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 15:36, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 16:37, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 17:39, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 18:40, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 19:41, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 20:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 21:44, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 22:45, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 23:46, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 00:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 01:49, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 02:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 03:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 04:53, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 05:54, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 06:55, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 07:57, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 08:58, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 09:59, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 11:00, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 12:02, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 13:03, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 14:04, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 15:05, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 16:07, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 17:08, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 18:09, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 19:11, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 20:12, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 21:13, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 22:14, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-17-2017 (MM/DD/YYYY), Time: 23:16, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 00:17, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 01:18, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 02:20, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 03:21, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 04:22, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 05:23, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 06:25, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 07:26, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 08:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 09:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 10:30, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 11:31, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 12:32, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 13:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 14:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 15:36, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 16:37, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 17:39, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 18:40, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 19:41, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 20:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 21:44, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 22:45, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-18-2017 (MM/DD/YYYY), Time: 23:46, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 00:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 01:49, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 02:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 03:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 04:53, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 05:54, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 06:55, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 07:57, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 08:58, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 09:59, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 11:00, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 12:02, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 13:03, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 14:04, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 15:06, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-19-2017 (MM/DD/YYYY), Time: 16:07, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 07:26, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 08:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 09:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 10:29, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 11:31, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 12:32, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 13:33, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 14:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 15:36, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 16:37, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 17:38, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 18:40, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 19:41, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 20:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 21:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 22:45, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 23:46, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 00:47, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 01:49, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 02:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 03:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 04:52, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 05:54, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 06:55, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 07:56, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 08:57, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 09:59, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 11:00, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 12:01, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 13:03, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 14:04, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 15:05, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 16:06, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 17:08, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 18:09, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 19:10, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 20:12, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 21:13, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 22:14, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-14-2017 (MM/DD/YYYY), Time: 23:15, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 00:17, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 01:18, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 02:19, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 03:20, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 04:22, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 05:23, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 06:24, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 07:26, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 08:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 09:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 10:29, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 11:31, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 12:32, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 13:33, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 14:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 15:36, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 16:37, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 17:38, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 18:40, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 19:41, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 20:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 21:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 22:45, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-15-2017 (MM/DD/YYYY), Time: 23:46, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 00:47, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 01:49, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 02:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 03:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 04:52, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 05:54, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 06:55, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 07:56, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 08:58, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 09:59, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 11:00, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 12:01, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 13:03, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 14:04, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 15:05, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-16-2017 (MM/DD/YYYY), Time: 16:07, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 07:25, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 08:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 09:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 10:29, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 11:30, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 12:32, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 13:33, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 14:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 15:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 16:37, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 17:38, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 18:39, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 19:41, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 20:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 21:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 22:44, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-10-2017 (MM/DD/YYYY), Time: 23:46, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 00:47, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 01:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 02:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 03:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 04:52, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 05:53, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 06:55, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 07:56, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 08:57, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 09:58, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 11:00, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 12:01, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 13:02, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 14:04, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 15:05, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 16:06, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 17:07, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 18:09, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 19:10, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 20:11, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 21:13, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 22:14, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-11-2017 (MM/DD/YYYY), Time: 23:15, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 00:16, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 01:18, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 02:19, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 03:20, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 04:21, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 05:23, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 06:24, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 07:25, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 08:27, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 09:28, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 10:29, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 11:30, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 12:32, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 13:33, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 14:34, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 15:35, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 16:37, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 17:38, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 18:39, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 19:41, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 20:42, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 21:43, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 22:44, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-12-2017 (MM/DD/YYYY), Time: 23:46, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 00:47, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 01:48, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 02:50, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 03:51, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 04:52, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 05:53, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 06:55, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 07:56, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 08:57, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 09:59, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 11:00, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 12:01, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 13:02, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 14:04, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 15:05, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
+Date: 04-13-2017 (MM/DD/YYYY), Time: 16:06, from: onelab4.info.ucl.ac.be, to: ricepl-5.cs.rice.edu 
+
+traceroute to ricepl-5.cs.rice.edu (128.42.142.45), 30 hops max, 60 byte packets
+bind: Cannot assign requested address
+
